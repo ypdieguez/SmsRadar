@@ -22,6 +22,8 @@ import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.Toast;
 
+import com.tuenti.smsradar.sample.R;
+
 /**
  * Sample activity created to show how to use SmsRadar library.
  *
